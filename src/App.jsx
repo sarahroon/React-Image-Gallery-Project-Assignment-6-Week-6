@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ThumbnailGallery from "./components/ThumbnailGallery"; // correct path
+import ThumbnailGallery from "./components/ThumbnailGallery";
 import "./App.css";
 
 function App() {
