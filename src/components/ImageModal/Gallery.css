@@ -1,0 +1,15 @@
+.gallery {
+  display: flex;
+  gap: 15px;
+}
+
+.thumbnail {
+  width: 150px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.thumbnail:hover {
+  transform: scale(1.05);
+}
