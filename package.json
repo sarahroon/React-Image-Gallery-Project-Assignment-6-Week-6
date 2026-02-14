@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^22.22.0",
+    "react": "^18.2.0",
     "react-dom": "^22.22.0"
   },
   "devDependencies": {
@@ -19,6 +19,6 @@
     "vite": "^7.3.1"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
