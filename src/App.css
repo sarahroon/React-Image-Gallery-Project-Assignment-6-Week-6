@@ -40,3 +40,35 @@
 .read-the-docs {
   color: #888;
 }
+
+.main-image img {
+  width: 400px; /* adjust as needed */
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.thumbnails {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.thumbnails .thumbnail {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.thumbnails .thumbnail img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border: 2px solid transparent;
+  transition: border 0.2s;
+}
+
+.thumbnails .thumbnail img:hover {
+  border: 2px solid #007bff;
+}
