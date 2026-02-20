@@ -1,6 +1,6 @@
 services:
   - type: web
     name: react-image-gallery
-    env: static
+    runtime: node
     buildCommand: npm install && npm run build
-    staticPublishPath: dist
+    startCommand: npm run preview
