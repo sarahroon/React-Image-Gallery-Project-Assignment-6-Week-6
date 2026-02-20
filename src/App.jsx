@@ -5,12 +5,6 @@ function App() {
   const images = [
     {
       original:
-        "https://i.natgeofe.com/k/8fa25ea4-6409-47fb-b3cc-4af8e0dc9616/red-eyed-tree-frog-on-leaves-3-2_3x4.jpg",
-      thumbnail:
-        "https://thumbs.dreamstime.com/b/red-eyed-tree-frog-tropical-leaf-vibrant-jungle-background-367105520.jpg",
-    },
-    {
-      original:
         "https://as1.ftcdn.net/v2/jpg/01/99/77/64/1000_F_199776474_ORr8LaAj6pihYKMD4HqHpQ2nkTZ0IrIX.jpg",
       thumbnail:
         "https://images.fineartamerica.com/images-medium-large/smiling-frog-bob-luce.jpg",
